@@ -2,8 +2,12 @@
 
 # Description
 
-[Infinix Documentation](https://app.clickup.com/20655476/v/dc/kpbbm-79368/kpbbm-23808)
+Perpetual futures DEX for sophisticated traders
 
+**Infinix aims to be the Perpetual Futures platform for Sophisticated Traders**
+- **Superior leverage:** Logarithmic perpetuals reduce liquidation risk by taking the log of the underlying asset price before computing funding payments. This better behaved funding payment distribution provides for longer funding periods, higher leverage, and a more stable clearing house.
+- **Real world data feeds:** every assets class that the first-party API3 oracle provides can be supported via a perpetual contract. Whether it’s commodities, fiat, crypto, stocks, and more.
+- **Custom tools & functions:** Custom funding payment functions and tools for sophisticated traders
 
 # Breakdown
 
